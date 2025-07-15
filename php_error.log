@@ -1,0 +1,85 @@
+[12-Jul-2025 06:30:57 UTC] --- register.php START ---
+[12-Jul-2025 06:30:57 UTC] --- register.php START ---
+[12-Jul-2025 06:30:57 UTC] register.php: Database and User models included.
+[12-Jul-2025 06:30:57 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:30:57 UTC] register.php: Database connection attempt finished. DB object is: NULL
+[12-Jul-2025 06:30:57 UTC] register.php: Database connection FAILED, sending 500 error.
+[12-Jul-2025 06:31:55 UTC] --- register.php START ---
+[12-Jul-2025 06:31:55 UTC] --- register.php START ---
+[12-Jul-2025 06:31:55 UTC] register.php: Database and User models included.
+[12-Jul-2025 06:31:56 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:31:56 UTC] register.php: Database connection attempt finished. DB object is: NULL
+[12-Jul-2025 06:31:56 UTC] register.php: Database connection FAILED, sending 500 error.
+[12-Jul-2025 06:34:09 UTC] --- register.php START ---
+[12-Jul-2025 06:34:09 UTC] --- register.php START ---
+[12-Jul-2025 06:34:09 UTC] register.php: Database and User models included.
+[12-Jul-2025 06:34:09 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:34:09 UTC] register.php: Database connection attempt finished. DB object is: NULL
+[12-Jul-2025 06:34:09 UTC] register.php: Database connection FAILED, sending 500 error.
+[12-Jul-2025 06:34:10 UTC] --- register.php START ---
+[12-Jul-2025 06:34:10 UTC] register.php: Database and User models included.
+[12-Jul-2025 06:34:10 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:34:10 UTC] register.php: Database connection attempt finished. DB object is: NULL
+[12-Jul-2025 06:34:10 UTC] register.php: Database connection FAILED, sending 500 error.
+[12-Jul-2025 06:34:31 UTC] --- register.php START ---
+[12-Jul-2025 06:34:31 UTC] --- register.php START ---
+[12-Jul-2025 06:34:31 UTC] register.php: Database and User models included.
+[12-Jul-2025 06:34:31 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:34:31 UTC] register.php: Database connection attempt finished. DB object is: NULL
+[12-Jul-2025 06:34:31 UTC] register.php: Database connection FAILED, sending 500 error.
+[12-Jul-2025 06:37:55 UTC] --- register.php START ---
+[12-Jul-2025 06:37:55 UTC] --- register.php START ---
+[12-Jul-2025 06:37:55 UTC] register.php: Database and User model loaded.
+[12-Jul-2025 06:37:55 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:37:55 UTC] register.php: ❌ Database connection FAILED.
+[12-Jul-2025 06:37:55 UTC] register.php: ⚠ Coba tes manual: mysql -u root dan pastikan database 'eduspace_db' ada.
+[12-Jul-2025 06:41:21 UTC] --- register.php START ---
+[12-Jul-2025 06:41:21 UTC] --- register.php START ---
+[12-Jul-2025 06:41:21 UTC] register.php: Database and User model loaded.
+[12-Jul-2025 06:41:21 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:41:21 UTC] register.php: ❌ Database connection FAILED.
+[12-Jul-2025 06:41:21 UTC] register.php: ⚠ Coba tes manual: mysql -u root dan pastikan database 'eduspace_db' ada.
+[12-Jul-2025 06:45:56 UTC] --- register.php START ---
+[12-Jul-2025 06:45:56 UTC] --- register.php START ---
+[12-Jul-2025 06:45:56 UTC] register.php: Database and User model loaded.
+[12-Jul-2025 06:45:56 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Jul-2025 06:45:56 UTC] register.php: ❌ Database connection FAILED.
+[12-Jul-2025 06:45:56 UTC] register.php: ⚠ Coba tes manual: mysql -u root dan pastikan database 'eduspace_db' ada.
+[14-Jul-2025 14:58:13 UTC] --- register.php START ---
+[14-Jul-2025 14:58:13 UTC] --- register.php START ---
+[14-Jul-2025 14:58:13 UTC] register.php: Database and User model loaded.
+[14-Jul-2025 14:58:13 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[14-Jul-2025 14:58:13 UTC] register.php: ❌ Database connection FAILED.
+[14-Jul-2025 14:58:13 UTC] register.php: ⚠ Coba tes manual: mysql -u root dan pastikan database 'eduspace_db' ada.
+[14-Jul-2025 15:01:21 UTC] --- register.php START ---
+[14-Jul-2025 15:01:21 UTC] --- register.php START ---
+[14-Jul-2025 15:01:21 UTC] register.php: Database and User model loaded.
+[14-Jul-2025 15:01:21 UTC] register.php: ✅ Database connected.
+[14-Jul-2025 15:01:21 UTC] register.php: Raw input data: {"username":"udin","email":"udin@gmail.com","password":"123123"}
+[14-Jul-2025 15:01:21 UTC] register.php: User data disiapkan.
+[14-Jul-2025 15:01:21 UTC] register.php: ✅ Pendaftaran berhasil.
+[14-Jul-2025 15:01:21 UTC] --- register.php END ---
+[14-Jul-2025 16:59:18 UTC] --- register.php START ---
+[14-Jul-2025 16:59:18 UTC] --- register.php START ---
+[14-Jul-2025 16:59:18 UTC] register.php: Database and User model loaded.
+[14-Jul-2025 16:59:18 UTC] register.php: ✅ Database connected.
+[14-Jul-2025 16:59:18 UTC] register.php: Raw input data: {"username":"ilham","email":"ilham@gmail.com","password":"123123"}
+[14-Jul-2025 16:59:18 UTC] register.php: User data disiapkan.
+[14-Jul-2025 16:59:18 UTC] register.php: ✅ Pendaftaran berhasil.
+[14-Jul-2025 16:59:18 UTC] --- register.php END ---
+[15-Jul-2025 02:40:15 UTC] --- register.php START ---
+[15-Jul-2025 02:40:15 UTC] --- register.php START ---
+[15-Jul-2025 02:40:15 UTC] register.php: Database and User model loaded.
+[15-Jul-2025 02:40:15 UTC] register.php: ✅ Database connected.
+[15-Jul-2025 02:40:15 UTC] register.php: Raw input data: {"username":"ilhamudin","email":"ilhamudin@gmail.com","password":"123123"}
+[15-Jul-2025 02:40:15 UTC] register.php: User data disiapkan.
+[15-Jul-2025 02:40:15 UTC] register.php: ✅ Pendaftaran berhasil.
+[15-Jul-2025 02:40:15 UTC] --- register.php END ---
+[15-Jul-2025 07:09:30 UTC] --- register.php START ---
+[15-Jul-2025 07:09:30 UTC] --- register.php START ---
+[15-Jul-2025 07:09:30 UTC] register.php: Database and User model loaded.
+[15-Jul-2025 07:09:30 UTC] register.php: ✅ Database connected.
+[15-Jul-2025 07:09:30 UTC] register.php: Raw input data: {"username":"muhyijr","email":"muhyi@gmail.com","password":"123123"}
+[15-Jul-2025 07:09:30 UTC] register.php: User data disiapkan.
+[15-Jul-2025 07:09:30 UTC] register.php: ✅ Pendaftaran berhasil.
+[15-Jul-2025 07:09:30 UTC] --- register.php END ---
