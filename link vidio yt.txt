@@ -1,0 +1,3 @@
+ini adalah link vidio yt https://youtu.be/mU9zNx61-t8?si=b8-JH4imwFHyrIH1
+dan ini adalah link github untuk front end nya karna ga di gabungin jadiin satu 
+tapi misah https://github.com/fadlizaenalaripin/eduspace.git
